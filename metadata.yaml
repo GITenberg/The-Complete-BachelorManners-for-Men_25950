@@ -1,0 +1,25 @@
+_repo: The-Complete-BachelorManners-for-Men_25950
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Germain, Walter
+    gutenberg_agent_id: '31689'
+    url: http://www.gutenberg.org/2009/agents/31689
+description: ''
+gutenberg_issued: '2008-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25950'
+  lccn: 09031607
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette'
+- !lcc 'BJ'
+title: 'The Complete Bachelor: Manners for Men'
+url: http://www.gutenberg.org/ebooks/25950
