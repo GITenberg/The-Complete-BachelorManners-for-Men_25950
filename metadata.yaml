@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31689'
     url: http://www.gutenberg.org/2009/agents/31689
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25950#The-Complete-BachelorManners-for-Men
 gutenberg_issued: '2008-07-02'
 gutenberg_type: Text
 identifiers:
